@@ -41,5 +41,3 @@ Change your working directory to the newly cloned project folder:
 ```git
  cd 
 ```
-# challenge1
-# challenge1
