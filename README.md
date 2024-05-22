@@ -1,8 +1,8 @@
-# Build wc
+# Challenge #1 - Build wc
 
 ## Table of Contents
 
-- [Library Manager](#library-manager)
+- [Challenge #1 - Build wc](#challenge-#1-Build-wc)
   - [Table of Contents](#table-of-contents)
   - [Project Overview](#project-overview)
   - [Demo](#demo)
@@ -11,9 +11,9 @@
 
 ## Project Overview
 
-The Library Manager allows you to add, delete, and update a book.
 
-![website screenshot](/mockups/signUp.PNG)
+
+![website screenshot]()
 
 ## Demo
 
